@@ -20,6 +20,8 @@ streamlit run app.py
 ```
 
 Example
+
+
 Input	                    Output
 
 Company! Incorporated     Company Inc.
@@ -29,8 +31,11 @@ Company! Incorporated     Company Inc.
 Jane Dela Cruz            First Name - Jane Last Name - Dela Cruz
 
 Known limitations
+
 Salutations are guessed from first names and can be wrong.
+
 Foreign contact number cannot be standardized.
+
 Tech stack
 
 Python, Streamlit, pandas, nameparser, gender-guesser
