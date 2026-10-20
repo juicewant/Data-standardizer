@@ -21,8 +21,11 @@ streamlit run app.py
 
 Example
 Input	                    Output
+
 Company! Incorporated     Company Inc.
+
 +639512124311             0951 212 4311
+
 Jane Dela Cruz            First Name - Jane Last Name - Dela Cruz
 
 Known limitations
