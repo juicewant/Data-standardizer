@@ -25,9 +25,7 @@ This is a public demo. **Do not paste confidential or personal data.** Use sampl
 | Input | Output |
 |---|---|
 | Company! Incorporated | Company Inc. |
-|---|---|
 | +639512124311 | 0951 212 4311|
-|---|---|
 | Jane Dela Cruz | First Name - Jane Last Name - Dela Cruz|
 
 
