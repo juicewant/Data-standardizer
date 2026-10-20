@@ -1,4 +1,4 @@
-# SAP-Standardizer
+# Data-Standardizer
 
 Helps standardize mass records in compliance with SAP policies (Philippines), reducing processing time.
 
